@@ -11,7 +11,6 @@
 收集存储易学相关资料，国内对易学宗教管理严格，所以在GitHub开发此项目。
 # 关于
 ### 人员
-明泽
 <img src="https://mzkz.coding.net/p/tuchuang/d/aqiu/git/raw/master/mmexport1652711405310.jpg" width="1080"></img>
 [telegram](https://t.me/aqiuX17)
 [术数交流QQ群](https://jq.qq.com/?_wv=1027&k=MDk04z1Y)
